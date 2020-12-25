@@ -2,8 +2,4 @@
 
 work and play of computational_mama
 
-
-## who 
-
-
-## whatever
+https://computationalmama.xyz
