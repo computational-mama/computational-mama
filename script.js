@@ -1,5 +1,6 @@
 // create a new hydra-synth instance
 var hydra = new Hydra({
+  detectAudio: false,
   canvas: document.getElementById("myCanvas")
 });
 osc(10, 0.1, 20)
